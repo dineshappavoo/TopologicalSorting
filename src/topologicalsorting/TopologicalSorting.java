@@ -29,7 +29,7 @@ public class TopologicalSorting {
 
 		for(int n : topoSort)
 		{
-			System.out.println(n);
+			System.out.print(" "+n);
 		}
 
 	}
