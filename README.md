@@ -35,6 +35,8 @@ following code snippet shows how to get the topological order,
 First integer is the total number of vertices |V| in the graph G. The next integer is the number of edges |E| in the graph.
 Next |E| lines has the edges information (u, v, w). All inputs must be given through terminal.
 
+![Directed_Acyclic_Graph ](dineshappavoo.github.com/TopologicalSorting/src/images/Directed_acyclic_graph.png)
+
 ###Output
 	 1 2 3 4 5 6 8 7
   
