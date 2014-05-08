@@ -12,7 +12,7 @@ ordering, and algorithms are known for constructing a topological ordering of an
 	  Worst case performance  O(|E| + |V|)
 	  Worst case space complexity O (|V|)
 
-##Functionality
+##Install
 
 This library has the java implementation of Topological Sorting using Kahn, Arthur B's algorithm to find the topological sorted order in a directed graph G=[V,E].The 
 following code snippet shows how to get the topological order,
